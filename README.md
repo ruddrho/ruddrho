@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal-profile.svg" width="100%" alt="Ruddrho Mollik — Robotics and Autonomous Systems profile" />
+ <img src="./assets/terminal-profile.gif" width="100%" alt="Ruddrho Mollik — Robotics and Autonomous Systems profile" />
 
 <br />
 

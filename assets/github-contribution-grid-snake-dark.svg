@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snake awaiting first generation</title>
+  <desc id="desc">The GitHub Actions workflow will replace this starter SVG with the live contribution snake.</desc>
+  <style>
+    text { font-family: "Fira Code", "JetBrains Mono", Consolas, monospace; }
+    .bot { animation: drive 3.5s ease-in-out infinite alternate; }
+    @keyframes drive { from { transform: translateX(0); } to { transform: translateX(690px); } }
+  </style>
+  <rect x="1" y="1" width="998" height="148" rx="14" fill="#16161e" stroke="#292e42" stroke-width="2"/>
+  <text x="35" y="40" fill="#7aa2f7" font-size="16">$ ./generate_snake.sh</text>
+  <g transform="translate(80 74)">
+    <g fill="#1a1b27">
+      <rect x="0" y="0" width="14" height="14" rx="3"/>
+      <rect x="24" y="0" width="14" height="14" rx="3"/>
+      <rect x="48" y="0" width="14" height="14" rx="3"/>
+      <rect x="72" y="0" width="14" height="14" rx="3"/>
+      <rect x="96" y="0" width="14" height="14" rx="3"/>
+      <rect x="120" y="0" width="14" height="14" rx="3"/>
+      <rect x="144" y="0" width="14" height="14" rx="3"/>
+      <rect x="168" y="0" width="14" height="14" rx="3"/>
+      <rect x="192" y="0" width="14" height="14" rx="3"/>
+      <rect x="216" y="0" width="14" height="14" rx="3"/>
+      <rect x="240" y="0" width="14" height="14" rx="3"/>
+      <rect x="264" y="0" width="14" height="14" rx="3"/>
+      <rect x="288" y="0" width="14" height="14" rx="3"/>
+      <rect x="312" y="0" width="14" height="14" rx="3"/>
+      <rect x="336" y="0" width="14" height="14" rx="3"/>
+      <rect x="360" y="0" width="14" height="14" rx="3"/>
+      <rect x="384" y="0" width="14" height="14" rx="3"/>
+      <rect x="408" y="0" width="14" height="14" rx="3"/>
+      <rect x="432" y="0" width="14" height="14" rx="3"/>
+      <rect x="456" y="0" width="14" height="14" rx="3"/>
+      <rect x="480" y="0" width="14" height="14" rx="3"/>
+      <rect x="504" y="0" width="14" height="14" rx="3"/>
+      <rect x="528" y="0" width="14" height="14" rx="3"/>
+      <rect x="552" y="0" width="14" height="14" rx="3"/>
+      <rect x="576" y="0" width="14" height="14" rx="3"/>
+      <rect x="600" y="0" width="14" height="14" rx="3"/>
+      <rect x="624" y="0" width="14" height="14" rx="3"/>
+      <rect x="648" y="0" width="14" height="14" rx="3"/>
+      <rect x="672" y="0" width="14" height="14" rx="3"/>
+      <rect x="696" y="0" width="14" height="14" rx="3"/>
+      <rect x="720" y="0" width="14" height="14" rx="3"/>
+      <rect x="744" y="0" width="14" height="14" rx="3"/>
+      <rect x="768" y="0" width="14" height="14" rx="3"/>
+      <rect x="792" y="0" width="14" height="14" rx="3"/>
+    </g>
+    <g class="bot">
+      <rect x="0" y="-6" width="48" height="26" rx="8" fill="#7aa2f7"/>
+      <circle cx="13" cy="7" r="3" fill="#16161e"/>
+      <circle cx="34" cy="7" r="3" fill="#16161e"/>
+      <rect x="18" y="13" width="12" height="2" rx="1" fill="#16161e"/>
+    </g>
+  </g>
+  <text x="500" y="127" text-anchor="middle" fill="#565f89" font-size="12">The workflow will replace this starter with your live animated contribution snake.</text>
+</svg>

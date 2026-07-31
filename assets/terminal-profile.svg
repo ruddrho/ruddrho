@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">Ruddrho Mollik robotics profile terminal</title>
+  <desc id="desc">Animated Tokyo Night terminal showing a robot, profile details, engineering stack, and research focus.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+    <clipPath id="nameClip">
+      <rect x="350" y="74" width="585" height="34">
+        <animate attributeName="width" from="0" to="585" dur="1.35s" begin="0.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="roleClip">
+      <rect x="350" y="112" width="585" height="27">
+        <animate attributeName="width" from="0" to="585" dur="1.65s" begin="1.55s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <style>
+      .mono { font-family: "Fira Code", "JetBrains Mono", Consolas, monospace; }
+      .dim { fill: #565f89; }
+      .text { fill: #c0caf5; }
+      .blue { fill: #7aa2f7; }
+      .cyan { fill: #7dcfff; }
+      .green { fill: #9ece6a; }
+      .purple { fill: #bb9af7; }
+      .orange { fill: #ff9e64; }
+      .pink { fill: #f7768e; }
+      .line {
+        opacity: 1;
+        animation: enter .55s ease-out both;
+      }
+      .l1 { animation-delay: 3.2s; }
+      .l2 { animation-delay: 3.45s; }
+      .l3 { animation-delay: 3.7s; }
+      .l4 { animation-delay: 3.95s; }
+      .l5 { animation-delay: 4.2s; }
+      .l6 { animation-delay: 4.45s; }
+      .l7 { animation-delay: 4.7s; }
+      .robot-line {
+        opacity: 1;
+        animation: robotPrint .22s steps(1,end) both;
+      }
+      .r1 { animation-delay: .35s; }
+      .r2 { animation-delay: .55s; }
+      .r3 { animation-delay: .75s; }
+      .r4 { animation-delay: .95s; }
+      .r5 { animation-delay: 1.15s; }
+      .r6 { animation-delay: 1.35s; }
+      .r7 { animation-delay: 1.55s; }
+      .r8 { animation-delay: 1.75s; }
+      .pulse { animation: pulse 1.8s ease-in-out infinite; }
+      .cursor { animation: blink .85s steps(1,end) infinite; }
+      @keyframes enter { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes robotPrint { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes pulse { 50% { opacity: .35; } }
+    </style>
+  </defs>
+
+  <rect x="18" y="18" width="964" height="394" rx="16" fill="#16161e" stroke="#292e42" stroke-width="2" filter="url(#shadow)"/>
+  <rect x="18" y="18" width="964" height="42" rx="16" fill="#1a1b27"/>
+  <rect x="18" y="44" width="964" height="16" fill="#1a1b27"/>
+  <circle cx="43" cy="39" r="6" fill="#f7768e"/>
+  <circle cx="64" cy="39" r="6" fill="#e0af68"/>
+  <circle cx="85" cy="39" r="6" fill="#9ece6a"/>
+  <text x="500" y="44" text-anchor="middle" class="mono dim" font-size="14">ruddhro@github: ~/robotics-profile</text>
+
+  <rect x="43" y="79" width="278" height="278" rx="12" fill="#1a1b27" stroke="#292e42"/>
+  <text x="64" y="105" class="mono green" font-size="14">$ ./boot_robot.sh</text>
+
+  <g class="mono cyan" font-size="19">
+    <text x="83" y="145" class="robot-line r1">        .--------.</text>
+    <text x="83" y="171" class="robot-line r2">       /  o    o  \</text>
+    <text x="83" y="197" class="robot-line r3">      |     ∿      |</text>
+    <text x="83" y="223" class="robot-line r4">      |  \______/  |</text>
+    <text x="83" y="249" class="robot-line r5">       \__________/</text>
+    <text x="83" y="275" class="robot-line r6">       /|  ROS 2 |\</text>
+    <text x="83" y="301" class="robot-line r7">      /_|________|_\</text>
+    <text x="83" y="327" class="robot-line r8">        O        O</text>
+  </g>
+
+  <circle cx="62" cy="382" r="5" class="green pulse"/>
+  <text x="76" y="387" class="mono green" font-size="13">SYSTEM ONLINE</text>
+  <text x="217" y="387" class="mono dim" font-size="13">simulation-first</text>
+
+  <text x="350" y="101" class="mono blue" font-size="30" font-weight="700" clip-path="url(#nameClip)">RUDDRHO MOLLIK</text>
+  <text x="350" y="135" class="mono cyan" font-size="18" clip-path="url(#roleClip)">ROBOTICS · AUTONOMOUS SYSTEMS · CONTROL</text>
+  <rect x="921" y="116" width="10" height="21" class="cursor purple"/>
+
+  <line x1="350" y1="158" x2="935" y2="158" stroke="#292e42"/>
+
+  <g class="mono" font-size="15">
+    <g class="line l1">
+      <text x="350" y="184" class="purple">education</text>
+      <text x="465" y="184" class="text">Mechanical Engineering · SWPU</text>
+    </g>
+    <g class="line l2">
+      <text x="350" y="213" class="purple">focus</text>
+      <text x="465" y="213" class="text">Navigation · LiDAR-SLAM · Safe Control</text>
+    </g>
+    <g class="line l3">
+      <text x="350" y="242" class="purple">languages</text>
+      <text x="465" y="242" class="orange">Python · C++ · MATLAB</text>
+    </g>
+    <g class="line l4">
+      <text x="350" y="271" class="purple">platform</text>
+      <text x="465" y="271" class="green">ROS 2 · Gazebo · Linux · Git · Arduino</text>
+    </g>
+    <g class="line l5">
+      <text x="350" y="300" class="purple">cad/cae</text>
+      <text x="465" y="300" class="pink">SolidWorks · COMSOL · ANSYS · AutoCAD</text>
+    </g>
+    <g class="line l6">
+      <text x="350" y="329" class="purple">planners</text>
+      <text x="465" y="329" class="cyan">A* · Dijkstra · PRM · RRT · RRT*</text>
+    </g>
+    <g class="line l7">
+      <text x="350" y="358" class="purple">goal</text>
+      <text x="465" y="358" class="text">Research-based MASc/MSc in Robotics</text>
+    </g>
+  </g>
+
+  <rect x="350" y="377" width="585" height="18" rx="9" fill="#1a1b27"/>
+  <rect x="350" y="377" width="448" height="18" rx="9" fill="#7aa2f7" opacity=".85">
+    <animate attributeName="width" from="0" to="448" dur="2.1s" begin="4.95s" fill="freeze"/>
+  </rect>
+  <text x="643" y="390" text-anchor="middle" class="mono text" font-size="11">BUILDING: PERCEPTION → PLANNING → CONTROL → EVALUATION</text>
+</svg>

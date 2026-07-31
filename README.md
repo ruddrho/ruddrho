@@ -4,8 +4,8 @@
 
 <br />
 
-<a href="https://github.com/ruddhro">
-  <img src="https://img.shields.io/badge/GitHub-ruddhro-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub" />
+<a href="https://github.com/ruddrho">
+  <img src="https://img.shields.io/badge/GitHub-ruddrho-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/ruddrho-mollik-955348281">
   <img src="https://img.shields.io/badge/LinkedIn-Ruddrho_Mollik-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
@@ -15,7 +15,7 @@
 
 </div>
 
-## `ruddhro@github ~ $ whoami`
+## `ruddrho@github ~ $ whoami`
 
 I am a Mechanical Engineering undergraduate at **Southwest Petroleum University**, focused on **robotics, autonomous navigation, LiDAR-SLAM, motion planning, and control systems**.
 
@@ -72,16 +72,16 @@ I build simulation-first robotics projects that make algorithms observable and c
 
 | Project | Engineering scope | Evidence produced |
 |---|---|---|
-| **[Multi-Algorithm Robot Navigation](https://github.com/ruddhro/matlab-multi-algorithm-robot-navigation)** | Compares A*, Dijkstra, RRT, RRT*, and PRM in a shared MATLAB environment with a common DWA local controller, LiDAR sensing, and live SLAM. | Synchronized simulations, planner metrics, trajectories, occupancy maps, images, CSV results, and videos |
-| **[3D UGV Trajectory Tracking](https://github.com/ruddhro/3D-UGV-Trajectory-Tracking-Adaptive-Nonlinear-Control-MATLAB)** | Adaptive nonlinear control for 3D unmanned-ground-vehicle trajectory tracking in MATLAB. | Tracking response, controller behavior, and simulation plots |
-| **[PID-Controlled Quadcopter Simulation](https://github.com/ruddhro/PID-Controlled-Quadcopter-Simulation)** | Cascaded PID control for nonlinear quadcopter trajectory tracking using MATLAB/Simulink. | Closed-loop simulation and trajectory tracking results |
-| **[PID–LQR–Fuzzy Mobile Robot Tracking](https://github.com/ruddhro/pid-lqr-fuzzy-mobile-robot-trajectory-tracking)** | Comparative study of PID, LQR, and fuzzy-logic controllers for mobile-robot trajectory tracking. | Controller comparison, error behavior, and MATLAB visualizations |
-| **[Advanced Mobile Robot Navigation](https://github.com/ruddhro/advanced-mobile-robot-navigation)** | Autonomous mobile-robot navigation with path planning, DWA, LiDAR, SLAM, and route tracking. | Navigation trajectories, mapping results, and simulation outputs |
-| **[SLAM Live Occupancy Map](https://github.com/ruddhro/slam_live_occupancy_map)** | Differential-drive robot simulation using A*, DWA, 360° LiDAR, route locking, and live occupancy mapping. | Live SLAM map, explored-space metrics, and recorded navigation |
+| **[Multi-Algorithm Robot Navigation](https://github.com/ruddrho/matlab-multi-algorithm-robot-navigation)** | Compares A*, Dijkstra, RRT, RRT*, and PRM in a shared MATLAB environment with a common DWA local controller, LiDAR sensing, and live SLAM. | Synchronized simulations, planner metrics, trajectories, occupancy maps, images, CSV results, and videos |
+| **[3D UGV Trajectory Tracking](https://github.com/ruddrho/3D-UGV-Trajectory-Tracking-Adaptive-Nonlinear-Control-MATLAB)** | Adaptive nonlinear control for 3D unmanned-ground-vehicle trajectory tracking in MATLAB. | Tracking response, controller behavior, and simulation plots |
+| **[PID-Controlled Quadcopter Simulation](https://github.com/ruddrho/PID-Controlled-Quadcopter-Simulation)** | Cascaded PID control for nonlinear quadcopter trajectory tracking using MATLAB/Simulink. | Closed-loop simulation and trajectory tracking results |
+| **[PID–LQR–Fuzzy Mobile Robot Tracking](https://github.com/ruddrho/pid-lqr-fuzzy-mobile-robot-trajectory-tracking)** | Comparative study of PID, LQR, and fuzzy-logic controllers for mobile-robot trajectory tracking. | Controller comparison, error behavior, and MATLAB visualizations |
+| **[Advanced Mobile Robot Navigation](https://github.com/ruddrho/advanced-mobile-robot-navigation)** | Autonomous mobile-robot navigation with path planning, DWA, LiDAR, SLAM, and route tracking. | Navigation trajectories, mapping results, and simulation outputs |
+| **[SLAM Live Occupancy Map](https://github.com/ruddrho/slam_live_occupancy_map)** | Differential-drive robot simulation using A*, DWA, 360° LiDAR, route locking, and live occupancy mapping. | Live SLAM map, explored-space metrics, and recorded navigation |
 
 <div align="center">
 
-<a href="https://github.com/ruddhro?tab=repositories">
+<a href="https://github.com/ruddrhoo?tab=repositories">
   <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-7aa2f7?style=for-the-badge&logo=github&logoColor=1a1b27" alt="View all projects" />
 </a>
 
@@ -138,8 +138,8 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://github.com/ruddhro">
-  <img src="https://img.shields.io/badge/GitHub-ruddhro-7aa2f7?style=for-the-badge&logo=github&logoColor=1a1b27" alt="GitHub" />
+<a href="https://github.com/ruddrho">
+  <img src="https://img.shields.io/badge/GitHub-ruddrho-7aa2f7?style=for-the-badge&logo=github&logoColor=1a1b27" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/ruddrho-mollik-955348281">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-7dcfff?style=for-the-badge&logo=linkedin&logoColor=1a1b27" alt="LinkedIn" />

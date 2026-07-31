@@ -81,7 +81,7 @@ I build simulation-first robotics projects that make algorithms observable and c
 
 <div align="center">
 
-<a href="https://github.com/ruddrhoo?tab=repositories">
+<a href="https://github.com/ruddrho?tab=repositories">
   <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-7aa2f7?style=for-the-badge&logo=github&logoColor=1a1b27" alt="View all projects" />
 </a>
 

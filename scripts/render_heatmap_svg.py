@@ -54,7 +54,7 @@ def month_labels(start: date, end: date) -> list[tuple[int, str]]:
 
 def main() -> int:
     payload = json.loads(INPUT.read_text(encoding="utf-8"))
-    username = str(payload.get("username", "ruddhro"))
+    username = str(payload.get("username", "ruddrho"))
     days = {str(item["date"]): item for item in payload.get("days", [])}
     stats = payload.get("stats", {})
 

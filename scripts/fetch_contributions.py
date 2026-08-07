@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "contributions.json"
-DEFAULT_USERNAME = "ruddhro"
+DEFAULT_USERNAME = "ruddrho"
 
 
 def parse_count(text: str) -> int | None:

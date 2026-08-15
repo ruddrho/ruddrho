@@ -156,3 +156,30 @@ flowchart LR
 
 </div>
 <!-- YOLO Achievement PR -->
+
+
+## ❯ `contribution-report --detailed`
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruddrho&theme=github_dark&animation=stagger&title_color=ff0055&text_color=00d9ff&bg_color=121020&border_color=121020&icon_color=fff000&chart_color=00f5c8" alt="Detailed Contribution Report" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruddrho&theme=github_dark&animation=load&title_color=ff0055&text_color=00d9ff&bg_color=121020&border_color=121020&icon_color=fff000&chart_color=00f5c8" alt="Top Languages by Repository" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruddrho&theme=github_dark&animation=load&title_color=ff0055&text_color=00d9ff&bg_color=121020&border_color=121020&icon_color=fff000&chart_color=00f5c8" alt="Top Languages by Commit" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruddrho&theme=github_dark&animation=stagger&title_color=ff0055&text_color=00d9ff&bg_color=121020&border_color=121020&icon_color=fff000&chart_color=00f5c8" alt="GitHub Statistics" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruddrho&theme=github_dark&utcOffset=8&animation=load&title_color=ff0055&text_color=00d9ff&bg_color=121020&border_color=121020&icon_color=fff000&chart_color=00f5c8" alt="Commit Productive Time" />
+
+</div>
+
+<br>
+
+## ❯ `activity-graph --timeline`
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ruddrho&custom_title=Ruddrho%20Mollik%27s%20Contribution%20Graph&bg_color=071006&color=b8ff36&line=8cff32&point=c7ff4a&area=true&area_color=315c19&hide_border=true" alt="Ruddrho Mollik's Contribution Graph" />
+
+</div>
